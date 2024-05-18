@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change to your Obsidian vault directory
-cd /c/Users/The Groehlers/Downloads/obsidian-osint-templates-main/UM Bootcamp
+cd [Path to Notes Directory]
 
 # Check for changes
 git add .
