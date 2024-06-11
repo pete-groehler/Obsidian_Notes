@@ -1,4 +1,3 @@
-/c/Users/The Groehlers/Downloads/obsidian-osint-templates-main/UM Bootcamp
 #!/bin/bash
 
 # Configuration
