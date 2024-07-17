@@ -41,3 +41,6 @@
 
 ## OWASP
 - https://owasp.org/www-project-top-ten/
+
+## LinEnum
+- https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
