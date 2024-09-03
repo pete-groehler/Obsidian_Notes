@@ -44,3 +44,6 @@
 
 ## LinEnum
 - https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
+
+## XSS Hunter
+- https://github.com/mandatoryprogrammer/xsshunter-express
